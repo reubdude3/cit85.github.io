@@ -1,0 +1,27 @@
+div {
+    width: 400px;
+height: 200px;
+border: 10px dashed red;
+margin: 20px auto;
+box-sizing: border-box;
+TRBL
+TB   RL
+T   R   B   L
+}
+
+img {
+    border: 20px groove orangered;
+    border-radius: 100%;
+}
+
+.dogone {
+    border: 20px dashed orangered;
+}
+
+.dogtwo {
+    border: 20px dotted orangered;
+}
+
+.dogthree {
+    border: 20px double orangered;
+}

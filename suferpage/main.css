@@ -1,0 +1,36 @@
+
+div{
+	center
+}
+
+
+
+body{
+	background-color: dodgerblue;
+}
+div{
+	width: 50%;
+	background-color: limegreen;
+	margin: 0 auto
+	
+    
+}
+img{
+	width: 55%;
+	border: 20px groove gold;
+    border-radius: 50%;
+    margin: 0 auto;
+    display: block;
+
+}
+#one{
+	color: blue 
+}
+
+#two{
+	color:red;
+}
+
+#three{
+	color:yellow;
+}
